@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Metrel.MainPage">
+
+    <StackLayout VerticalOptions="Center" Margin="30">
+
+        <Entry x:Name="emailEntry"
+               Placeholder="example@example.com"
+               Keyboard="Email" />
+        <Entry x:Name="passwordEntry"
+               Placeholder="Password"
+               IsPassword="True" />
+        <Label x:Name="ErrorLabel" TextColor="Red" />
+        <Button x:Name="LoginButton"
+                Text="Log In"
+                Clicked="LoginButton_Clicked"
+                BackgroundColor="DeepSkyBlue"
+                TextColor="white"
+                />
+    </StackLayout>
+
+</ContentPage>

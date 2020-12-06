@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2HtncFgkrOGAgSy81rjdhQSLLMFLOLIwV1EB6N1eJdWzJrFKYkJbv6XicTLZovn7znlbi21sVrH2Gv0GTe12Q==",
+  "success": true,
+  "projectFilePath": "E:\\Xamarin\\Metrel\\Metrel.iOS\\Metrel.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nejcp\\.nuget\\packages\\syncfusion.licensing\\18.3.0.52\\syncfusion.licensing.18.3.0.52.nupkg.sha512",
+    "C:\\Users\\nejcp\\.nuget\\packages\\syncfusion.xamarin.core\\18.3.0.52\\syncfusion.xamarin.core.18.3.0.52.nupkg.sha512",
+    "C:\\Users\\nejcp\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\18.3.0.52\\syncfusion.xamarin.gridcommon.18.3.0.52.nupkg.sha512",
+    "C:\\Users\\nejcp\\.nuget\\packages\\syncfusion.xamarin.sftreeview\\18.3.0.52\\syncfusion.xamarin.sftreeview.18.3.0.52.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
